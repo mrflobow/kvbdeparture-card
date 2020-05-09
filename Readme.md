@@ -2,7 +2,7 @@
 
 This is the Lovelace UI Card for the kvbdeparture sensor
 
-![](images/card.png)
+![](images/uicard.png)
 
 ## Installation
 
