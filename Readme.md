@@ -1,6 +1,8 @@
-#KVB Departure Lovelace Card
+# KVB Departure Lovelace Card
 
-This is the UI Card for the kvbdeparture sensor
+This is the Lovelace UI Card for the kvbdeparture sensor
+
+![](images/card.png)
 
 ## Installation
 
