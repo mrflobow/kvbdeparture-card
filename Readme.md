@@ -6,7 +6,7 @@ This is the Lovelace UI Card for the kvbdeparture sensor
 
 ## Installation
 
-1. Copy kvddeparture-card.js to config/www
+1. Copy kvbdeparture-card.js to config/www
 2. Add the card to the lovelace ressources
 ```yaml
 lovelace:
